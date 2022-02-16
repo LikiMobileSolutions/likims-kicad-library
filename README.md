@@ -1,10 +1,17 @@
 # likims-kicad-library
-Symbols and footprints library by Liki Mobile Solutions and IotOak.
+Symbols and footprints library by Liki Mobile Solutions and IotOak for Kicad 6.
+## Dependencies
+We use some footprints from other popular libraries. Please check and import following libraries if you are missing any footprint:
+- https://github.com/Digi-Key/digikey-kicad-library
 ## Parts
 ### Integrated circuits
 | Name | Symbol | Footprint | 3D Model | Link |
 | --- | --- | --- | --- | --- |
 | NL17SZ14DBVT1G | lms-cmos | Package_TO_SOT_SMD:SOT-553 | N/A | [Octapart](https://octopart.com/nl17sz14dbvt1g-onsemi-102015567) |
+### Linear components
+| Name | Symbol | Footprint | 3D Model | Link |
+| --- | --- | --- | --- | --- |
+| MCR100 | lms-linear | digikey-footprints:TO-92-3 | N/A | [TME](https://www.tme.eu/pl/details/mcr100-3-cdi/tyrystory-smd-tht/cdil/mcr100-3/) |
 ### LEDs
 | Name | Symbol | Footprint | 3D Model | Link |
 | --- | --- | --- | --- | --- |
