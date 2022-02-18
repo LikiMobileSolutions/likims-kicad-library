@@ -8,6 +8,7 @@ We use some footprints from other popular libraries. Please check and import fol
 | Name | Symbol | Footprint | 3D Model | Link |
 | --- | --- | --- | --- | --- |
 | NL17SZ14DBVT1G | lms-cmos | Package_TO_SOT_SMD:SOT-553 | N/A | [Octapart](https://octopart.com/nl17sz14dbvt1g-onsemi-102015567) |
+| TLC59211IN | lms-cmos | Package_DIP:DIP-22_W10.16mm | N/A | [Octapart](https://octopart.com/tlc59211in-texas+instruments-12190462) |
 ### Linear components
 | Name | Symbol | Footprint | 3D Model | Link |
 | --- | --- | --- | --- | --- |
