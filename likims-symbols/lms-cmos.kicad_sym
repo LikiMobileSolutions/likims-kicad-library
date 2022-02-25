@@ -12,6 +12,12 @@
     (property "Datasheet" "" (id 3) (at -0.508 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "ki_keywords" "Schmitt" (id 4) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "ki_description" "Inverter IC 1 Channel Schmitt Trigger" (id 5) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (symbol "NL17SZ14DBVT1G_0_1"
       (rectangle (start -5.08 6.35) (end 5.08 -6.35)
         (stroke (width 0) (type default) (color 0 0 0 0))
@@ -102,6 +108,9 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://www.ti.com/lit/ds/symlink/tlc59211.pdf" (id 3) (at 1.27 -16.51 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "ki_description" "LED Lighting Drivers 8B DMOS Sink Driver" (id 4) (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (symbol "TLC59211IN_0_1"

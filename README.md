@@ -26,3 +26,7 @@ We use some footprints from other popular libraries. Please check and import fol
 | Name | Symbol | Footprint | 3D Model | Link |
 | --- | --- | --- | --- | --- |
 | MENTOR-1275 | N/A | Yes | N/A | [Manufacturer](https://www.mentor.de.com/bauelemente/en/product/en-1275-1001/) |
+### Devkits and breakout boards
+| Name | Symbol | Footprint | 3D Model | Link |
+| --- | --- | --- | --- | --- |
+| ESP32-DEVKIT-V1 | lmd-devkits | N/A | N/A | |

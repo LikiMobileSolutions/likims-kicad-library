@@ -15,7 +15,7 @@
     (property "ki_keywords" "2N5060-ND" (id 4) (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "ki_description" "SCR 0.8A 30V TO-92" (id 5) (at 0 0 0)
+    (property "ki_description" "Thyristor, 600 V, 200 µA, 800 mA, TO-92, 3 Pins" (id 5) (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (symbol "MCR100_0_1"
